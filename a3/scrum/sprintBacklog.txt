@@ -1,0 +1,21 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate Sprint below, after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 November 19, 2024
+# Sprint 1 Backlog UserStories go below
+
+Plan: I will look over the design patterns and extend them by implementing polyline
+
+# Sprint 2 November 27, 2024
+# Sprint 2 Backlog UserStories go below
+
+Plan: I will implement save and load by modifying view and implementing the methods in the PaintFileParser.
+
+# Sprint 3 November 29, 2024
+# Sprint 3 Backlog UserStories go below
+
+Plan: I will implement all of the methods in the OllamaPaint by using the references in OllamaNumberedFile
+and using them to implement modify and new file methods in OllamaPaint.
+I will also use a private method to trim the prompt in the modified file so it only shows what I need
+to open it on Paint.
